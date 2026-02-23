@@ -1,0 +1,580 @@
+# Tyranids
+
+Tyranids Special Rules
+Shadow in the Warp. Enemy Warbands roll Morale Tests with -1 DICE when fighting a Tyranid Warband. Orks, Necrons, and T’au Empire Warbands as well as other Tyranid Warbands ignore this penalty.
+
+
+In addition, while a Tyranid Warband is participating in a battle, Perils of the Warp do not apply to either side. Instead, models have a cumulative -2 DICE for each psychic power they have used during a given turn, instead of -1 DICE.
+
+
+Synapse. Some Tyranid models have the SYNAPSE Keyword. While within 6” of a model with SYNAPSE, including itself, a model with the TYRANID Keyword is considered Within Synapse Range. A model Within Synapse Range has +1 DICE to Dash Actions.
+
+
+Retrieve Biomass. During a campaign, whenever one of your TYRANID models is killed, whether from a casualty roll, receiving its third Battle Scar, or any other reason, you regain half of its credit cost, rounded up, and half of its Glory cost, rounded down.
+
+
+In addition, if your opponent rolls the Captured result on the Elite Trauma table for any of their models, you cannot return that model to them, but you gain 50 credits if that model is not ARTIFICIAL, DAEMON, or NECRON. If it is also not a VEHICLE and has the LARGE Keyword, you earn 100 credits instead if it is LARGE. You earn half as many credits if the model is MECHANICUS.
+Tyranids Patrons
+Your patron must be The Hive Mind.
+Patron: The Hive Mind
+                  * Adaptive Biology. The model has NEGATE FIRE and NEGATE GAS.
+                  * Alien Cunning. Enemy models never get free attacks against the model when it Retreats, and the model can move out of Melee Combat using its Standard Move, Charge, or Dash.
+                  * Direct Guidance (Synapse Only). When the model activates, you can choose up to one other friendly non-Elite TYRANID model that is Within Synapse Range of it that has not yet activated during this Turn. Activate that model alongside this model as if they had the FIRETEAM Keyword. That model has +1 DICE to Hit with all attacks during this Activation.
+                  * Heightened Reflexes. Once during each Turn, when an enemy model ends its movement within 12” of this model, this model can make a single ranged attack against that enemy.
+                  * Synaptic Lynchpin. The model gains the SYNAPSE Keyword. If it already has SYNAPSE, instead allies are Within Synapse Range while they are within an additional 3” of this model.
+                  * Synaptic Tendrils. The first time this model fails a Risky Success Roll during each of its Activations, its Activation continues instead of ending.
+________________
+
+
+Tyranids Battlekit
+Tyranids Melee Weapons
+                  * Chitinous Claw (3 credits). Melee
+                  * Piercing Claw (15 credits, LIMIT: 4, Elite or Tyranid Warrior Only). Melee, CRITICAL, ARMOUR PIERCING 1
+                  * Rending Claw (15 credits, LIMIT: 2, Elite or Ravener Only). Melee, ARMOUR PIERCING 2
+                  * Scything Talon (4 credits). Melee, CRITICAL
+                  * Toxic Scythe (7 credits, LIMIT: 2, Ravener Only). Melee, INFECTION MARKERS, CRITICAL
+Tyranids Heavy Melee Weapons
+                  * Bone Cleaver (4 Glory, LIMIT: 1). Melee, +2 INJURY DICE, HEAVY, MAIN HAND ONLY
+                  * Bonesword (15 credits). Melee, +1 INJURY DICE, CRITICAL, HEAVY, MAIN HAND ONLY
+                  * Crushing Claw (15 credits). Melee, +1 INJURY MODIFIER, HEAVY
+                  * Lash Whip (10 credits, max 1 per model). Melee, BLOCK, HEAVY, WHIP 3”
+                  * Slayer Sabre (1 Glory, LIMIT: 1, Elite Only). Melee, +1 INJURY DICE, CRITICAL, FIRE, HEAVY, MAIN HAND ONLY
+Tyranids Ranged Weapons
+                  * Devourer (5 credits). 18”, TWO-HANDED
+                  * Fleshborer (10 credits). 18”, ASSAULT, TWO-HANDED
+                  * Shardlauncher (15 credits). 18”, IGNORE COVER, BLAST 2”, SHRAPNEL, TWO-HANDED
+                  * Spike Rifle (12 credits). 24”, ARMOUR PIERCING 1, TWO-HANDED
+                  * Spinefists (12 credits). 12”, +1 DICE, ASSAULT, TWO-HANDED
+                  * Strangleweb (20 credits, LIMIT: 2). 12”, FLAMETHROWER, STUN, TWO-HANDED
+Tyranids Heavy Ranged Weapons
+                  * Barbed Strangler (20 credits, LIMIT: 2). 24”, BLAST 2”, HEAVY, STUN, TWO-HANDED
+                  * Barblauncher (15 credits, LIMIT: 2). 24”, IGNORE COVER, BLAST 2”, HEAVY, SHRAPNEL, TWO-HANDED
+                  * Deathspitter (10 credits). 24”, GAS, HEAVY, TWO-HANDED
+                  * Heavy Devourer (20 credits). 18”, +1 INJURY DICE, HEAVY, TWO-HANDED
+                  * Heavy Venom Cannon (45 credits, LIMIT: 1). 36”, +1 INJURY DICE, BLAST 2”, HEAVY, ARMOUR PIERCING 2, TWO-HANDED
+                  * Impaler Cannon (25 credits). 36”, IGNORE COVER, HEAVY, ARMOUR PIERCING 1, TWO-HANDED
+                  * Miasma Cannon (6 Glory, LIMIT: 1). 36”, IGNORE ARMOUR, Blast 3”, GAS, TWO-HANDED
+                  * Shockcannon (2 Glory, LIMIT: 1). 24”, IGNORE ARMOUR, HEAVY, STUN, TWO-HANDED
+                  * Strangethorn Cannon (40 credits, LIMIT: 1). 36”, +1 INJURY DICE, BLAST 2”, HEAVY, STUN, TWO-HANDED
+                  * Toxinjector Harpoon (3 Glory, LIMIT: 1, Elite only). 10”, TWO-HANDED, IGNORE COVER, IGNORE LONG RANGE, SHRAPNEL. Causes no injury, but does cause a BLOOD MARKER as an attack that uses the SHRAPNEL Keyword. If the wielder hits a target with this weapon that is not LARGE, the model hit is moved in a straight line into the nearest legal space closest to the wielder. This typically ends with the target and the wielder in base contact and in Melee Combat. This movement can place the target in Melee Combat with multiple enemy models. Additionally, no enemy models may Retreat when in Melee Combat with the wielder.
+                  * Venom Cannon (25 credits, LIMIT: 1). 24”, BLAST 2”, HEAVY, ARMOUR PIERCING 2, TWO-HANDED
+Tyranids Thrown Weapons
+                  * Blinding Venom (10 credits, Gargoyle Only). Melee, GAS, THROWN. Causes no injury, but does cause a BLOOD MARKER as an attack that uses the GAS Keyword. On a hit, the target cannot make attacks against enemies that Retreat from it until the end of the current Turn.
+                  * Electroshock Grubs (10 credits, LIMIT: 2). 6”, ASSAULT, IGNORE COVER, IGNORE LONG RANGE, STUN, THROWN
+                  * Desiccator Larvae (7 credits, LIMIT: 2). 6”, ASSAULT, IGNORE ARMOUR, GAS, IGNORE COVER, IGNORE LONG RANGE, THROWN
+                  * Shreddershard Beetles (5 credits, LIMIT: 2). 6”, ASSAULT, BLAST 2”, IGNORE COVER, IGNORE LONG RANGE, SHRAPNEL, THROWN
+                  * Toxic Glands (5 credits, LIMIT: 1, Ravener Only). 6”, ASSAULT, IGNORE LONG RANGE, INFECTION MARKERS, THROWN
+                  * Venom Blast (30 credits, LIMIT: 1, Ravener Only). 8”, FLAMETHROWER, IGNORE ARMOUR, GAS, THROWN
+Tyranids Tail Weapons
+                  * Bone Mace (12 credits, LIMIT: 1, Hive Tyrant or Ravener Only). Melee, ASSAULT, HEAVY, STUN, WHIP 3”, can be used to make an additional attack when taking the Fight Action if it was not used to make a ranged attack this Activation, but suffers off-hand penalties when doing so. Takes no hands, but max 1 tail weapon per model.
+                  * Pincer Tail (10 credit, Hive Tyrant or Ravener Only). Melee, ASSAULT, WHIP 3”, can be used to make an additional attack when taking the Fight Action if it was not used to make a ranged attack this Activation, but suffers off-hand penalties when doing so. Takes no hands, but max 1 tail weapon per model.
+                  * Tail Blade (12 credits, Hive Tyrant or Ravener Only). Melee, ASSAULT, CRITICAL, WHIP 3”, can be used to make an additional attack when taking the Fight Action if it was not used to make a ranged attack this Activation, but suffers off-hand penalties when doing so. Takes no hands, but max 1 tail weapon per model.
+Tyranids Equipment
+                  * Abhorrent Pheromones (15 credits, Elite Only). The model gains FEAR.
+                  * Adrenal Glands (10 credits, LIMIT: 3, Gaunt Only). The model gains +1 DICE on Dash Success Rolls.
+                  * Acid Blood (10 credits, LIMT: 1, Elite Only). Whenever an enemy model inflicts one or more BLOOD MARKERS on this model with a melee attack, that model suffers one BLOOD MARKER.
+                  * Acid Maw (10 credits, LIMIT: 2, Gaunt Only). The model’s melee attacks gain ARMOUR PIERCING 1.
+                  * Balemind Membrane (1 Glory, LIMIT: 1, Psyker Only). Enemies cannot Deny the Witch when the equipped model uses a psychic power.
+                  * Bioplasma Discharger (4 Glory, LIMIT: 1, Elite Only). The model’s melee weapons gain the FIRE Keyword.
+                  * Bonded Exoskeleton (10 credits, Elite with -2 or higher Armour Only). -1 of the model’s Armour gains IMPERVIOUS.
+                  * Dermic Symbiosis (5 credits). The model has NEGATE SHRAPNEL.
+                  * Enhanced Senses (5 credits, LIMIT: 3). The model can declare a Charge against an enemy it cannot see.
+                  * Flesh Hooks (5 credits, LIMIT: 2, Elite or Tyranid Warrior Only). Enemies cannot Retreat while within 1” of this model.
+                  * Membranous Mobility (5 credits, LIMIT: 2). The model gains +1 DICE on Climb, Jump, and Diving Charge Success Rolls.
+                  * Metamorphic Regrowth (3 Glory, LIMIT: 2). At the start of the model’s Activation, you can remove 1 BLOOD MARKER from it.
+                  * Temperature Adaptation (5 credits). The model has NEGATE FIRE.
+                  * Toxin Sacs (2 Glory, LIMIT: 2). The model’s melee attacks cause INFECTION MARKERS instead of BLOOD MARKERS.
+Tyranids Campaign Shop
+During a campaign, these pieces of battlekit are available only when your Warband is specifically allowed to purchase them.
+                  * Gestation Sac (5 Glory, LIMIT: 1, LARGE Elite Only). As an Action with a Success Roll, the equipped model can attempt to birth warriors. On a success, place two new Hormagaunt models within 1” of the equipped model, each equipped with 2 Double Scything Claws. These models do not count towards your number of models for the purpose of Morale, and they can be activated this Turn as normal. They are not added to your Warband. Once this Success Roll succeeds, it cannot be taken again for the remainder of the battle.
+                  * Norn Crown (8 Glory, LIMIT: 1, Warband Leader Only). Allies are Within Synapse Range while they are within 12” of this model. In addition, each other TYRANID model within 12” of the wearer has +1 DICE to Hit with all melee attacks.
+                  * The Passenger (4 Glory, LIMIT: 1). The equipped model has +2 DICE to all Dash Success Rolls.
+                  * Pathogenesis (2 Glory, LIMIT: 1). The equipped model has +1 DICE to Hit with all ranged attacks, and the range of all of its ranged weapons that have at least a range of 12” are increased by 6”.
+                  * Resonance Barb (4 Glory, LIMIT: 1, Psyker Only). When you purchase this battlekit, choose one Tyranid psychic power that costs 7 credits or fewer. The equipped model knows the chosen power in addition to any others. In addition, the equipped model has +1 DICE to all PSYCHIC Success Rolls, including attacks.
+                  * Shardgullet (4 Glory, LIMIT: 1, Elite Only). 36”, +1 INJURY DICE, IGNORE ARMOUR, ASSAULT, HEAVY
+                  * Spirit-Leech Cortex (2 Glory, LIMIT: 1, Psyker Only). When the equipped model takes an enemy Out of Action with a PSYCHIC attack, you can remove 1 BLOOD MARKER from it.
+                  * Dirgeheart Of Kharis (2 Glory, LIMIT: 1, Elite Only). Enemies within 3” of the equipped model treat all of their enemies as if they had the FEAR Keyword.
+                  * Maw-Claws Of Thyrax (2 Glory, LIMIT: 1). Whenever the equipped model takes an enemy Out of Action with a melee weapon, you can remove 1 BLOOD MARKER from it.
+                  * Reaper Of Obliterax (2 Glory, LIMIT: 1). Melee, Scores a Critical Hit on a roll of 11 or higher, +1 INJURY DICE, Injury roll cannot benefit from any -DICE, CRITICAL, HEAVY
+                  * The Ymgarl Factor (5 Glory, LIMIT: 1, Elite Only). The equipped model begins each battle with 2 BLESSING MARKERS.
+Tyranids Psychic Powers
+                  * Catalyst (5 credits, Effect). 6”, Self or One Ally, Immediate, remove 1 BLOOD MARKER from the target.
+                  * Node Lash (5 credits, Effect). 12”, Self or One Ally, Target Activation, the target has +1 DICE to Hit with all attacks.
+                  * Null Zone (3 credits, Effect). 6”, Self or One Ally, End of Turn, the target cannot be targeted or affected by PSYCHIC weapons or abilities, and PSYCHIC Success Rolls cannot be used while within 6” of it.
+                  * Paroxysm (5 credits, Effect). 18”, One Enemy, Target Activation, the target has -1 DICE to all actions.
+                  * Psychic Scream (5 credits, Attack). Melee, IGNORE ARMOUR, PSYCHIC, RISKY, STUN
+                  * Synaptic Pulse (12 credits, Attack). 18”, IGNORE COVER, IGNORE ARMOUR, BLAST 2”, PSYCHIC, RISKY, STUN
+                  * The Horror (5 credits, Effect). 6”, One Enemy, Immediate, the target must move D3” directly away from the caster. This movement can bring the target into or out of melee, and counts as a Charge and/or Retreat as appropriate.
+                  * Warp Blast (7 credits, Attack). 18”, IGNORE COVER, BLAST 3”, SHRAPNEL, PSYCHIC, RISKY
+                  * Warp Lance (5 credits, Attack). 24”, ARMOUR PIERCING 1, PSYCHIC, RISKY
+Tyranids Elites
+1 Hive Tyrant (Cost: 175 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Hive Tyrant
+	8”/Infantry
+	+3
+	+3
+	-3
+	60mm
+
+
+Battlekit
+A Hive Tyrant can be equipped with any weapons or equipment from the Tyranids Battlekit list, and it can take up to two powers from the Tyranids Psychic Powers list. Its super dense carapace provides it with -3 Armour, included in its statistics above.
+
+
+Abilities
+                  * Many-Limbed. The Hive Tyrant has +1 DICE to Hit with melee attacks, except with Tail Weapons, if it is not equipped with any ranged weapons besides Tail Weapons and/or THROWN weapons.
+                  * Onslaught (PSYCHIC). The Hive Tyrant and allies with the TYRANID Keyword in Synapse Range of it add the CRITICAL Keyword to all of their ranged attacks.
+                  * Will of the Hive Mind. Allies are Within Synapse Range while they are within 9” of this model.
+
+
+Upgrades
+                  * Winged. For an additional 10 credits, the Hive Tyrant can be Winged, granting it 8” movement and FLYING.
+
+
+Keywords
+ELITE, FEAR, LARGE, LEADER, PSYKER 1, STRONG, SYNAPSE, TOUGH, TYRANID
+0-1 Lictor (Cost: 125 credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Lictor
+	8”/Infantry
+	N/A
+	+2
+	-1
+	50mm
+
+
+Battlekit
+A Lictor can be equipped with any melee weapons or equipment from the Tyranids Battlekit list.
+
+
+Abilities
+                  * Camouflage. Ranged attacks have -1 DICE to hit the Lictor.
+                  * Feeder Tendrils. The first time a Lictor causes an enemy to suffer a BLOOD MARKER in melee combat during each of its Activations, you can remove one BLOOD MARKER from the Lictor.
+                  * Pheromone Trails. Allies with DEEP STRIKE or INFILTRATOR can be deployed fully within 3” of this model, even if they are too close to an enemy and/or are visible to an enemy. They still cannot be deployed within close combat range of any enemy. A model deployed with DEEP STRIKE in this way is not adjusted by D3” as normal.
+                  * Vanguard Predator. The Lictor has +1 DICE to all Dash Success Rolls. It automatically succeeds at all Climb and Jump Success Rolls, has +1 DICE to Diving Charge Success Rolls.
+
+
+Keywords
+FEAR, LARGE, INFILTRATOR, STEALTH, TOUGH, TYRANID
+0-1 Tyrant Guard (Cost: 130 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Tyrant Guard
+	6”/Infantry
+	+1
+	+1
+	-3
+	50mm
+
+
+Battlekit
+A Tyrant Guard can be equipped with any weapons or equipment from the Tyranids Battlekit list. Its armoured shell provides it with -3 Armour, included in its statistics above.
+
+
+Abilities
+                  * Guardian Organism. If any ally within 1” of the Tyrant Guard is hit by a ranged or melee weapon (excluding BLAST weapons), you can choose to redirect the hit to the Tyrant Guard instead. Determine the injuries exactly as if the weapon just hit the Tyrant Guard.
+                  * Many-Limbed. The Tyrant Guard has +1 DICE to Hit with melee attacks if it is not equipped with any ranged weapons besides THROWN weapons.
+
+
+Keywords
+ELITE, LARGE, STRONG, TOUGH, TYRANID
+Tyranids Troops
+Gaunt (Cost: 35 Credits, 40 for Gargoyle, 50 for Barbgaunt)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Barbgaunt
+	6”/Infantry
+	+0
+	+0
+	-1
+	40mm
+	Gargoyle
+	8”/Flying
+	+0
+	+0
+	0
+	32mm
+	Hormagaunt
+	8”/Infantry
+	N/A
+	+1
+	0
+	25-28mm
+	Neurogaunt
+	6”/Infantry
+	+0
+	+0
+	0
+	25-28mm
+	Termagant
+	6”/Infantry
+	+0
+	+0
+	0
+	25-28mm
+
+
+Battlekit
+A Gaunt can be equipped with any weapons or equipment from the Tyranids Battlekit list.
+
+
+When you recruit a Gaunt, you must choose one of the following Strains:
+                  * Barbgaunt (+15 credits, LIMIT: 2). Barbgaunts gain the LARGE Keyword, have -1 Armour, and can ignore the HEAVY Keyword of one ranged weapon they wield.
+                  * Gargoyle (+5 credits, LIMIT: 3). Gargoyles have 8” movement and FLYING, but they count as having no hands for the purpose of melee weapons. They can still use melee weapons that require no hands, such as Blinding Venom.
+                  * Hormagaunt. Hormagaunts have 8” movement speed and +1 Melee Skill, but they cannot be equipped with ranged weapons.
+                  * Neurogaunt (LIMIT: 3). While Within Synapse Range, Neurogaunt’s have the SYNAPSE Keyword, but they cannot equip ranged weapons besides Thrown Weapons.
+                  * Termagant. Termagants have the SKIRMISHER Keyword.
+
+
+Abilities
+                  * Skittering. The Gaunt has +1 DICE to all Climb, Jump, and Diving Charge Success Rolls.
+
+
+Keywords
+NO PROMOTION, TYRANID
+0-3 Tyranid Warrior (Cost: 95 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Tyranid Warrior
+	6”/Infantry
+	+1
+	+1
+	-1
+	40-50mm
+
+
+Battlekit
+A Tyranid Warrior can be equipped with any weapons or equipment from the Tyranids Battlekit list.
+
+
+Abilities
+                  * Many-Limbed. The Tyranid Warrior has +1 DICE to Hit with melee attacks if it is not equipped with any ranged weapons besides THROWN weapons.
+
+
+Upgrades
+                  * Winged. Up to 1 Tyranid Warrior can be Winged for a +15 credits, granting it 8” movement and FLYING.
+
+
+Keywords
+LARGE, STRONG, SYNAPSE, TOUGH, TYRANID
+0-2 Ravener (Cost: 105 credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Ravener
+	8”/Burrow
+	+1
+	+1
+	-1
+	40mm
+
+
+Battlekit
+The Ravener can be equipped with any weapons or equipment from the Tyranids Battlekit list.
+
+
+Abilities
+                  * Death From Below. If the Ravener takes an enemy Out of Action in melee, if it is not in melee with any other enemies, it can immediately move up to half of its movement speed.
+                  * Many-Limbed. The Ravener has +1 DICE to Hit with melee attacks, except with Tail Weapons, if it is not equipped with any ranged weapons besides Tail Weapons and/or THROWN weapons.
+
+
+Upgrades
+A Ravener can take only one of the following upgrades.
+                  * Wrecker. For +5 credits, 1 Ravener can be a Wrecker, allowing it to ignore the HEAVY Keyword of melee weapons.
+
+
+Keywords
+BURROW, DEEP STRIKE (TUNNEL), LARGE, TOUGH, TYRANID
+0-2 Ripper Swarm (Cost: 75 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Ripper Swarm
+	6”/Burrow
+	-1
+	+0
+	0
+	40mm
+
+
+Battlekit
+A Ripper Swarm is always equipped with a Spinemaw and Swarming Claws. It cannot be equipped with any other weapons or equipment.
+                  * Spinemaws. 8”, AUTOMATIC 2, ASSAULT
+                  * Swarming Claws. Melee, Hits all targets in melee during wielder’s Activation
+
+
+Abilities
+                  * Skittering. The Ripper Swarm has +1 DICE to all Climb, Jump, and Diving Charge Success Rolls.
+
+
+Keywords
+BURROW, DEEP STRIKE (TUNNEL), FEAR, LARGE, NO PROMOTION, SWARM, TOUGH, TYRANID
+0-1 Zoanthrope (Cost: 85 credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Zoanthrope
+	6”/Flying
+	N/A
+	+0
+	-1
+	40mm
+
+
+Battlekit
+The Zoanthrope can be equipped with any melee weapons or equipment from the Tyranids Battlekit list. It can take up to four powers from the Tyranids Psychic Powers list and must take at least one.
+
+
+Abilities
+                  * Spirit Leech (PSYCHIC). When the Zoanthrope takes an enemy Out of Action with a PSYCHIC attack, you can remove 1 BLOOD MARKER from the Zoanthrope.
+                  * Warp Field (PSYCHIC). The Zoanthrope and any ally within 3” of it treat Down Injury results as Minor Hits instead. This does not apply to Down results that already replaced another result, such as with TOUGH.
+
+
+Keywords
+FLYING, LARGE, PSYKER 1, SYNAPSE, TYRANID
+0-5 Spore Mine (Cost: 25 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Spore Mine
+	5”/Flying
+	N/A
+	N/A
+	0
+	25mm
+
+
+Battlekit
+The Spore Mine cannot be equipped with any weapons or equipment.
+
+
+Abilities
+                  * Expendable. The Spore Mine is not counted as part of your Warband for the purposes of Morale.
+                  * Spore Burst. The Spore Mine can trigger its bomb at any point during its Activation or when an enemy comes within 3” of it. This does not require a Success Roll. When detonated, the explosion is treated as a BLAST 3” weapon with GAS and IGNORE ARMOUR targeting the mine model. The mine is automatically a casualty.
+                  * Tiny. Injury rolls made against the Spore Mine have +1 DICE.
+
+
+Keywords
+DEEP STRIKE, FLYING, NO PROMOTION, TYRANID
+Tyranid Mercenaries
+You can recruit the following mercenaries:
+                  * 0-3 Genestealer (Cost: 3 Glory)
+                  * 0-1 Broodlord (Cost: 6 Glory)
+                  * 0-1 Parasite of Mortrex (Cost: 5 Glory)
+                  * 0-1 Venomthrope (Cost: 3 Glory)
+                  * 0-2 Von Ryan’s Leaper (Cost: 4 Glory)
+                  * 0-1 Zoat Negotiator (Cost: 5 Glory)
+________________
+
+
+Warband Variant: Assimilation Swarm
+                  * Assimilators. You cannot take a Hive Tyrant. Instead, you must include a Malanthrope, described below, as your Warband leader.
+                  * Rear Guard. You cannot take any Raveners or Lictors.
+                  * Toxic Retinue. You can recruit up to 2 Venomthrope Mercenaries for 85 credits each, which count as Troops in your Warband instead of Mercenaries, and can be equipped with any equipment from the Tyranids Battlekit list. One of them can be given the ELITE Keyword, becoming an Elite in your Warband.
+                  * Heavy Spores. The range of your Venomthropes’ Foul Spores ability is extended to 9”.
+                  * Biomass Processors. You can recruit up to 4 Ripper Swarms, and they gain the following ability:
+                  * Feed The Swarm. As an Action with a Risky Success Roll, the Ripper Swarm can attempt to heal itself or a TYRANID ally within 1” of it. On a success, you can remove one BLOOD MARKER from the target, or if it is Down, you can instead allow it to stand up.
+1 Malanthrope (Cost: 90 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Malanthrope
+	6”/Flying
+	N/A
+	+2
+	-1
+	60mm
+
+
+Battlekit
+The Malanthrope is equipped with a Grasping Tail, included in its price. It can be equipped with any equipment from the Tyranids Battlekit list.
+                  * Grasping Tail. Melee, enemies cannot Retreat from the wielder.
+                  * Lash: SHRAPNEL
+                  * Spear: ARMOUR PIERCING 2
+                  * Swipe: SWEEPING
+
+
+Abilities
+                  * Foul Spores. Ranged attacks made against the Malanthrope, and any of the Malanthrope’s TYRANID allies within 9” of it, suffer -1 DICE to Hit.
+                  * Genetic Adaptation. Whenever a non-ARTIFICIAL enemy model is taken Out of Action within 9” of the Malathrope, the Malanthrope or one of its TYRANID allies within 9” of it gains one of the following benefits.
+                  * Remove 1 BLOOD MARKER from it.
+                  * It has +1 INJURY DICE with melee attacks until the end of its next Activation.
+                  * It has +1 DICE to Hit with ranged attacks until the end of its next Activation.
+                  * It has your choice of NEGATE FIRE, NEGATE GAS, or NEGATE SHRAPNEL, and attacks with a Keyword negated by this have -1 INJURY DICE it, until the end of the battle.
+
+
+Keywords
+FLYING, LARGE, LEADER, SYNAPSE, TOUGH, TYRANID
+________________
+
+
+Warband Variant: Hive Guardians
+                  * Royal Guard. You cannot recruit any Lictors, but you can recruit up to 2 Tyrand Guards.
+                  * Nesting. You cannot recruit any Raveners, but you can recruit up to 4 Tyranid Warriors and up to 3 Ripper Swarms. Your Ripper Swarms also lose DEEP STRIKE, but have +0 Ranged Skill and +1 Melee Skill.
+                  * Spore Production. You can recruit up to 2 Mucoloid Spores, described below, as Troops in your Warband. In addition, whenever one of your Spore Mines or Mucoloid Spores is a casualty, you can replace it with a new model at no cost.
+0-2 Mucolid Spore (Cost: 45 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Spore Mine
+	5”/Flying
+	N/A
+	N/A
+	0
+	40mm
+
+
+Battlekit
+The Spore Mine cannot be equipped with any weapons or equipment.
+
+
+Abilities
+                  * Expendable. The Mucolid Spore is not counted as part of your Warband for the purposes of Morale.
+                  * Spore Explosion. The Mudolid Spore can trigger its bomb at any point during its Activation or when an enemy comes within 3” of it. This does not require a Success Roll. When detonated, the explosion is treated as a BLAST 3” weapon with +1 INJURY DICE, GAS, and IGNORE ARMOUR targeting the spore model. The spore is automatically a casualty.
+
+
+Keywords
+                  * DEEP STRIKE, FLYING, LARGE, NO PROMOTION, TYRANID
+________________
+Warband Variant: Subterranean Assault
+                     * Ravener Hive. You cannot recruit any Hive Tyrants, Barbgaunts, Gargoyles, or Neurogaunts, and only up to 1 Tyranid Warrior, but you can recruit up to 3 Ripper Swarms and up to 5 Raveners. You must recruit one Ravener as your Warband leader (an Elite). That Ravener is a Ravener Prime and gains the ELITE, LEADER, and SYNAPSE Keywords.
+                     * Precise Tunnelers. Your models with DEEP STRIKE (TUNNEL) are not adjusted D3” when they are deployed using that Keyword.
+                     * Limited Spores. You can recruit only up to 1 Spore Mine.
+________________
+
+
+Warband Variant: Synaptic Nexus
+                     * Neurotyant. You cannot take a Hive Tyrant. Instead, you must take a Neurotyrant, described below, as the leader of your Warband.
+                     * Neurolictor. You cannot take a Lictor, but you can recruit up to 1 Neurolictor, described below, as an Elite in your Warband.
+                     * Psychic Hive. You cannot recruit any Tyrant Guards or Raveners, but you can recruit up to 2 Zoanthropes. You can give one of those Zoantropes the ELITE Keyword.
+                     * Neuroloids. You can recruit up to 2 Neuroloads, described below, as Troops in your Warband.
+                     * Limited Spores. You can recruit only up to 1 Spore Mine.
+1 Neurotyrant (Cost: 165 Credits +cost of powers)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Neurotyrant
+	6”/Flying
+	+2
+	+2
+	-1
+	50mm
+
+
+Battlekit
+A Neurotyrant is equipped with its Barbed Lashes, included in its price. It can be equipped with any equipment from the Tyranids Battlekit list. It can also take up to five powers from the Tyranids Psychic Powers list, and must take at least two.
+                     * Barbed Lashes. Melee, CLEAVE 2, SHRAPNEL, BLOCK
+
+
+Abilities
+                     * Psychic Barrier (PSYCHIC). The Neurotyrant treats any Down result from the Injury Roll Table as a Minor Hits instead. This does not apply to Down results that already replaced another result, such as with TOUGH.
+                     * Will of the Hive Mind. Allies are Within Synapse Range while they are within 9” of this model.
+
+
+Keywords
+ELITE, FLYING, LARGE, LEADER, PSYKER 3, SYNAPSE, TOUGH, TYRANID
+0-1 Neurolictor (Cost: 130 credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Neurolictor
+	8”/Infantry
+	+0
+	+2
+	-1
+	50mm
+
+
+Battlekit
+A Neurolictor can be equipped with any melee weapons or equipment from the Tyranids Battlekit list. The Neurolictor can take up to two powers from the Tyranids Psychic Powers list.
+
+
+Abilities
+                     * Camouflage. Ranged attacks have -1 DICE to hit the Neurolictor.
+                     * Feeder Tendrils. The first time the Neurolictor causes an enemy to suffer a BLOOD MARKER in melee combat during each of its Activations, you can remove one BLOOD MARKER from the Neurolictor.
+                     * Psychological Saboteur (PSYCHIC). Enemy models within 6” of the Neurolictor that can be affected by the FEAR Keyword have -1 DICE to Hit with all attacks. This does not stack with the FEAR Keyword.
+                     * Vanguard Predator. The Neurolictor has +1 DICE to all Dash Success Rolls. It automatically succeeds at all Climb and Jump Success Rolls, has +1 DICE to Diving Charge Success Rolls.
+
+
+Keywords
+ELITE, LARGE, INFILTRATOR, LEADER, PSYKER 1, STEALTH, SYNAPSE, TOUGH, TYRANID
+0-2 Neuroloid (Cost: 45 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Neuroloid
+	6”/Flying
+	N/A
+	+0
+	0
+	25mm
+
+
+Battlekit
+The Neuroloid is equipped with a Barbed Lash, included in its price. It cannot be equipped with any other weapons or equipment.
+                     * Barbed Lash. Melee, SHRAPNEL, BLOCK
+
+
+Abilities
+                     * Synaptic Extension. Allies are only considered to be Within Synapse Range of the Neuroloid if they are within 3” of it. In addition, while your Neurotyrant is not on the battlefield, the Neuroloid loses its SYNAPSE Keyword.
+                     * Extension Node (Psychic). Your Neurotyrant can use any of its psychic powers as if it were at the Neuroloid’s location, using the Neuroloid’s line of sight.
+
+
+Keywords
+FLYING, LIMITED POTENTIAL, SYNAPSE, TYRANID
+________________
+
+
+Warband Variant: Vanguard Onslaught
+                     * Vanguard. You cannot recruit a Hive Tyrant, but you can recruit up to 2 Lictors. You must recruit at least 1 Lictor, and one of them must be your Warband leader, gaining the ELITE, LEADER, and SYNPASE Keywords.
+                     * Forerunners. You cannot recruit any Ripper Swarms, and only up to 2 Tyranid Warriors, but you can recruit up to 3 Von Ryan’s Leapers Mercenaries for 120 credits each. They count as Troops in your Warband instead of Mercenaries, and can be equipped with any additional equipment from the Tyranids Battlekit list. Their Enhanced Senses do not count towards any limits.

@@ -1,0 +1,694 @@
+# Drukhari
+
+Drukhari Special Rules
+Power From Pain. Some of your models have Pain(X) abilities. In order to use one of these abilities, you must spend X BLOOD MARKERS from among non-ARTIFICIAL enemy models. If there is not enough blood, you cannot use the ability.
+
+
+Each of your DRUKHARI models always have the following Pain(X) abilities:
+                  * Pain(1): Gain +1 DICE to a Dash Success Roll. Limit once per Success Roll.
+                  * Pain(1): Gain +1 DICE to a Hit with any one attack. Limit once per Success Roll.
+
+
+Territorial Dominance. During a campaign, after you create your Warband, choose one Archon, Haemonculus, or Succubus model to be your Ascendant Lord. Keep track of your Raid Spoils, beginning at 0. If your Ascendant Lord leaves your Warband for any reason, choose a different Archon, Haemonculus, or Succubus model to become your new Ascendant Lord, and reset your Raid Spoils to 0 (but they inherit all Territory).
+
+
+At the start of each battle, before deployment, your opponent places a 1” Spoils marker anywhere on the battlefield that is not within a deployment zone, within 6” of a battlefield edge, or on Impassable Terrain or completely surrounded by it
+
+
+As an Action with a Success Roll, any of your models in contact with this marker can attempt to recover that marker. On a success, it is carrying that marker. It can pass the marker to any ally it is within 1” of at the end of any of its Activations. If it is taken Out of Action, a model carrying a Spoils marker drops it at their previous position. At the end of each battle, you earn D3 Raid Spoils if one of your models is carrying the Spoils marker, and another D3 if you won the battle.
+
+
+During any Trading step, you can purchase Territories for 1 Raid Spoil each. When you do, choose one of the following at random. You can instead spend 4 Raid Spoils to choose any result. While you control 3 or more territories of the same type, you gain their special ability.
+                  1. Arena
+                  * 3 or more: At the end of each battle, one Succubus or Elite Wych in your Warband earns 1 additional XP.
+                  2. Docks
+                  * 3 or more: Your opponent must place Spoils markers closer to your deployment zone than to their own.
+                  3. Gang Territory
+                  * 3 or more: At the end of each battle, during casualties, choose one:
+                  * One Elite Reaver in your Warband earns 1 additional XP.
+                  * Reroll one casualty roll for a Reaver.
+                  4. Incubi Shrine
+                  * 3 or more: At the end of each battle, during casualties, choose one:
+                  * One Elite Incubus in your Warband earns 1 additional XP.
+                  * Reroll one casualty roll for an Incubus.
+                  5. Noble Spire
+                  * 3 or more: While your Ascendant Lord is on the battlefield, your opponent has -1 DICE to all Morale tests.
+                  6. Raidcraft Workshop
+                  * 3 or more: At the end of each battle, during casualties, you can reroll any one casualty or Elite Trauma roll.
+                  7. Scourge Spire
+                  * 3 or more: At the end of each battle, during casualties, choose one:
+                  * One Elite model with Scourge Wings in your Warband earns 1 additional XP.
+                  * Reroll one casualty roll for a model with Scourge Wings.
+                  8. Shadow District
+                  * 3 or more: You can hire Mandrake Mercenaries for 3 Glory each.
+                  9. Sprawl Slum
+                  * 3 or more: Each time you spend a Raid Spoils point, roll one D6: on a 6, that Raid Spoils point is refunded.
+                  10. Toxin Distillery
+                  * 3 or more: Once per battle, you can give all melee attacks made by one of your DRUKHARI models GAS during one of its Activations.
+                  11. Trading District
+                  * 3 or more: Once per quartermaster step, you can purchase one piece of battlekit from your Campaign Shop.
+                  12. Weapon Forge
+                  * 3 or more: Weapons that cost 20 credits or more cost you 5 fewer credits. This affects both their cost to purchase and their cost for the purposes of credit limit.
+
+
+You also gain another special benefit depending on your Ascendant Lord’s model type:
+                  * Archon. If you win a battle against another Drukhari Warband, and your Ascendant Lord is an Archon, you can select one of their Territories. You gain that Territory and they lose it. If you win a battle against any other Warband, you earn 1 additional Raid Spoil.
+                  * Haemonculus. If your Ascendant Lord is a Haemonculus, you can spend 1 Raid Spoils to ignore the result of any Elite Trauma or casualty roll for a Haemonculus, Wrack, Grotesque, Cronos, or Talos.
+                  * Succubus. If your Ascendant Lord is a Succubus, it costs you only 2 Raid Spoils to choose an Arena Territory result.
+Drukhari Patrons
+Your patron must be Commorragh.
+Patron: Commorragh
+                  * Ancient Evil. While this model is on the battlefield and not Down, your opponent has -1 DICE to Morale tests. This effect does not stack.
+                  * Deathly Perfectionist. Select any skill you want from the Ranged Skills.
+                  * Famed Savagery. During Activations that this model has Charged, it gains +1 DICE to Hit and +1 INJURY DICE with melee attacks.
+                  * Hatred Eternal. Injury rolls made against this model as a result of ranged attacks or psychic powers have -1 DICE.
+                  * Labyrinthine Cunning. After you activate this model, you decide the next 3 models to activate, following the normal limits (i.e. the second will usually be your own model again). If you choose a model in a Fireteam, the model's owner decides if it will activate as a Fireteam or individually.
+                  * Soul Thirst. Whenever this model takes an enemy Out of Action, remove 1 BLOOD MARKER from it.
+________________
+
+
+Drukhari Battlekit
+Drukhari Ranged Weapons
+                  * Blaster (25 credits, LIMIT: 2). 18”, IGNORE ARMOUR, ASSAULT, TWO-HANDED
+                  * Hexrifle (25 credits, LIMIT: 2, Haemonculus or Wrack Only). 36”, INFECTION MARKERS, TWO-HANDED
+                  * Liquifier Gun (25 credits, LIMIT: 1). 8”, FLAMETHROWER, IGNORE ARMOUR, -1 INJURY DICE, GAS, TWO-HANDED
+                  * Ossefactor (20 credits, Haemonculus or Wrack Only). 24”, CRITICAL, ARMOUR PIERCING 2, TWO-HANDED. On a Critical Hit, gains BLAST 2”.
+                  * Shredder (25 credits, LIMIT: 2). 8”, FLAMETHROWER, IGNORE ARMOUR, -1 INJURY DICE, SHRAPNEL, TWO-HANDED
+                  * Spirit Syphon (40 credits, Cronos Only). 10”, AUTOMATIC 2, -1 INJURY DICE, FLAMETHROWER, IGNORE ARMOUR, HEAVY, TWO-HANDED
+                  * Spirit Vortex (15 credits, Cronos Only). 18”, IGNORE COVER, BLAST 3”, HEAVY, TWO-HANDED
+                  * Splinter Rifle (15 credits). 24”, SHRAPNEL, TWO-HANDED
+                  * Splinter Pods (20 credits, Hellion Skyboard Only). 18”, ASSAULT, SHRAPNEL, TWO-HANDED, take up no hands
+                  * Terrorfex (40 credits, LIMIT: 1). 24”, IGNORE COVER, take up no hands
+                  * Xenospasm: BLAST 3”, SHRAPNEL
+                  * Wraithbone: The target must move D3” directly away from the attacker on a hit.
+                  * Twin Haywire Blaster (35 credits, LIMIT: 1, Talos Only). 24”, +1 DICE, IGNORE ARMOUR, -1 INJURY DICE non-ARTIFICIAL, non-VEHICLE models, BLAST 3”, HEAVY, STUN, TWO-HANDED
+                  * Twin Heat Lance (5 Glory, LIMIT: 1, Talos Only). 18”, +1 DICE, +1 INJURY DICE, IGNORE ARMOUR, HEAVY, RISKY, TWO-HANDED
+                  * Twin Liquifier Gun (45 credits, LIMIT: 1, Talos Only). 10”, AUTOMATIC 2, FLAMETHROWER, IGNORE ARMOUR, -1 INJURY DICE, GAS, HEAVY, TWO-HANDED
+                  * Twin Splinter Cannon (55 credits, LIMIT: 1, Talos Only). 36”, AUTOMATIC 2, +1 DICE, HEAVY, SHRAPNEL.
+Drukhari Pistols
+                  * Blast Pistol (20 credits, LIMIT: 2). 6”, IGNORE ARMOUR, ASSAULT, PISTOL
+                  * Splinter Pistol (12 credits). 12”, SHRAPNEL, PISTOL
+                  * Stinger Pistol (12 credits). 12”, GAS, PISTOL
+Drukhari Heavy Ranged Weapons
+                  * Dark Lance (3 Glory, LIMIT: 1). 36”, +1 INJURY DICE, IGNORE ARMOUR, HEAVY, TWO-HANDED
+                  * Heat Lance (3 Glory, LIMIT: 1). 18”, +1 INJURY DICE, IGNORE ARMOUR, HEAVY, RISKY, TWO-HANDED
+                  * Splinter Cannon (45 credits, LIMIT: 2). 36”, AUTOMATIC 2, HEAVY, SHRAPNEL, TWO-HANDED
+Drukhari Melee Weapons
+                  * Agoniser (15 credits, Elite, Wych, or Reaver Only). Melee, CRITICAL, ARMOUR PIERCING 1, MAIN HAND ONLY
+                  * Blade (4 credits). Melee, CRITICAL
+                  * Chain Flail (10 credits). Melee, +1 INJURY MODIFIER, HEAVY, TWO-HANDED
+                  * Demiklaives (20 credits, Elite or Incubus Only). Melee, CRITICAL, TWO-HANDED
+                  * Single Blade: +1 INJURY DICE
+                  * Dual Blades: CLEAVE 2
+                  * Hekatarii Blade (3 credits). Melee
+                  * Hellglaive (25 credits, LIMIT: 2). HELD, BLOCK, TWO-HANDED, Shield Combo
+                  * Strike: Melee
+                  * Shoot: 24”, SHRAPNEL
+                  * Huskblade (3 Glory, LIMIT: 1, Archon Only). Melee, +2 INJURY DICE, CRITICAL, TWO-HANDED
+                  * Klaive (15 credits, Elite or Incubus Only). Melee, +1 INJURY DICE, CRITICAL, CUMBERSOME, TWO-HANDED
+                  * Macro-Scalpel (30 credits, Haemonculus Only). Melee, +1 INJURY DICE, TWO-HANDED, causes 1 additional BLOOD MARKER if it causes any BLOOD MARKERS.
+                  * Paired Blades (12 credits). Melee, CRITICAL, IGNORE OFF-HAND, comes as a pair of two weapons.
+                  * Scissorhand (20 credits, Haemonculus or Wrack Only). Melee, causes 1 additional BLOOD MARKER if it causes any BLOOD MARKERS, MAIN HAND ONLY
+                  * Spirit-Leech Tentacles (12 credits, Cronos Only). Melee, CLEAVE 2, TWO-HANDED, HEAVY, enemies cannot Retreat from the wielder
+                  * Spirit Probe (15 credits, Cronos Only). Melee, +1 INJURY DICE, HEAVY, TWO-HANDED, gain 1 additional Pain token on a hit, even if no BLOOD MARKER is caused
+                  * Talos Ichor injector (15 credits, Talos Only). Melee, GAS, ARMOUR PIERCING 1
+Drukhari Thrown Weapons
+                  * Haywire Grenades (12 credits). 8”, IGNORE ARMOUR, -1 INJURY DICE non-ARTIFICIAL, non-VEHICLE models, ASSAULT, BLAST 3”, IGNORE COVER, IGNORE LONG RANGE, STUN, THROWN
+                  * Plasma Grenade (15 credits). 8”, ASSAULT, BLAST 2”, FIRE, IGNORE COVER, IGNORE LONG RANGE, THROWN
+                  * Tormentor Helm (10 credits, Incubus Only, Headgear). 8”, ASSAULT, SHRAPNEL, THROWN
+                  * Xenospasm Grenades (10 credits). 8”, ASSAULT, BLAST 3”, IGNORE COVER, IGNORE LONG RANGE, SHRAPNEL, THROWN
+                  * Wraithbone Grenades (10 credits, LIMIT: 3). 8”, ASSAULT, IGNORE COVER, IGNORE LONG RANGE, THROWN, the target must move D3” directly away from the attacker on a hit.
+Drukhari Armour
+                  * Kabalite Armour (15 credits). -1 INJURY MODIFIER
+                  * Wychsuit (20 credits, Elite or Wych Only). -1 INJURY MODIFIER, IMPERVIOUS
+                  * Incubus Warsuit (40 credits, Elite or Incubus Only). -2 INJURY MODIFIER
+                  * Ghostplate Armour (50 credits, Archon Only). -3 INJURY MODIFIER
+Drukhari Equipment
+                  * Antitox (5 credits). The model has NEGATE GAS.
+                  * Drukhari Helmet (5 credits). The model has NEGATE SHRAPNEL. Counts as Headgear.
+                  * Goblet of Spite (10 credits, LIMIT: 1, Succubus or Wych Only). Whenever an enemy Charges, if the bearer is within 12” and visible to that enemy, it must choose a model carrying a Goblet of Spite as at least one of its targets for the Charge.
+                  * Gruesome Talismens (15 credits). When a model equipped with Gruesome Talismans fails a Risky Success Roll, that model may use this item. If it does, its Activation is not ended. Can be used once per battle.
+                  * Hellion Skyboard (30 credits, LIMIT: 2, Succubus or Wych Only). The wearer has a movement speed of 10” and FLYING.
+                  * Hell Mask (7 credits, LIMIT: 2, Wrack Only). The wearer gains the FEAR Keyword. Counts as Headgear.
+                  * Scourge Wings (30 credits, LIMIT: 2, Archon or Kabalite Warrior Only). The wearer has a movement speed of 8” and the FLYING, INFILTRATOR, and SKIRMISHER Keywords.
+                  * Shadow Field (2 Glory, LIMIT: 2, Elite Only). The bearer treats any Down result from the Injury Roll Table as a Minor Hits instead. This does not apply to Down results that already replaced another result, such as with TOUGH.
+                  * Soul Seeker Ammunition (5 credits, LIMIT: 2, CONSUMABLE). AMMUNITION (IGNORE COVER). Splinter Pistol, Splinter Rifle, Tormentor Helm, or Hellglaive only.
+Drukhari Campaign Shop
+During a campaign, these pieces of battlekit are available only when your Warband is specifically allowed to purchase them.
+                  * Animus VItae (3 Glory, LIMIT: 1). 6”, IGNORE ARMOUR, BLAST 3”, SCATTER, takes no hands, can be used only once per battle.
+                  * Casket of Suffering (5 Glory, LIMIT: 1, Non-Haemonculus, Non-Wrack Elite Only). Injury rolls made against the bearer have -1 DICE.
+                  * Djin Blade (8 Glory, LIMIT: 1, Archon Only). Melee. CLEAVE 2, +2 INJURY DICE, CRITICAL, TWO-HANDED
+                  * Helm of Spite (2 Glory, LIMIT: 1, Headgear). The equipped model can Deny the Witch as if it had PSYKER 1. If it succeeds, the enemy PSYKER automatically suffers Perils of the Warp (if it would already, it suffers them only once).
+                  * Master Clone Field (5 Glory, LIMIT: 1). All attacks made against the wearer have -1 DICE to Hit.
+                  * Nightmare Doll (3 Glory, LIMIT: 1, Haemonculus Only). -1 INJURY MODIFIER, stacking to a maximum of -3 with armour.
+                  * Parasite’s Kiss (3 Glory, LIMIT: 1). 12”, ASSAULT, GAS, SHRAPNEL, PISTOL
+                  * Soulshard Grenade (2 Glory, LIMIT: 1). 8”, IGNORE ARMOUR, +1D against PSYKER models, ASSAULT, BLAST 3”, IGNORE COVER, IGNORE LONG RANGE
+                  * Tormentrix (2 Glory, LIMIT: 1, Elite Only). Melee, CRITICAL, GAS, ARMOUR PIERCING 2
+                  * Triptych Whip (2 Glory, LIMIT: 1, Succubus Only). Melee, CRITICAL, GAS, ARMOUR PIERCING 1, WHIP 3”
+Drukhari Elites
+1 Archon (Cost: 85 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Archon
+	7”/Infantry
+	+3
+	+3
+	0
+	25-28mm
+
+
+Battlekit
+An Archon can be equipped with any weapons, armour, or equipment from the Drukhari Battlekit list.
+
+
+Abilities
+                  * Overlord. Pain(2): As an Action with no roll required, you can place a BLESSING MARKER on the Archon or an ally within 6” of it.
+                  * Towering Arrogance. The Archon and its allies within 6” of it have NEGATE FEAR.
+
+
+Keywords
+DRUKHARI, ELITE, LEADER, TOUGH
+0-1 Haemonculus (Cost: 105 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Haemonculus
+	7”/Infantry
+	+2
+	+2
+	0
+	25-28mm
+
+
+Battlekit
+An Haemonculus can be equipped with any weapons, armour, or equipment from the Drukhari Battlekit list.
+
+
+Abilities
+                  * Fear Incarnate. Enemies within 6” of the Haemonculus treat all of their enemies as if they had the FEAR Keyword.
+                  * Feel No Pain. Injury rolls made against the Haemonculus have -1 DICE.
+                  * Fleshcraft. Pain(1): As an Action with a Success Roll, the Haemonculous can attempt to heal itself or one ally it can see within 6”. On a success, remove 1 BLOOD MARKER from the target, or 3 BLOOD MARKERS on a Critical Success.
+                  * Master of Pain. Pain(1): As an Action with no roll required, the Haemonculus can give one enemy within 12” that it can see 1 BLOOD MARKER.
+
+
+Keywords
+DRUKHARI, ELITE, FEAR
+0-1 Succubus (Cost: 75 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Succubus
+	8”/Infantry
+	+2
+	+2
+	0
+	25-28mm
+
+
+Battlekit
+An Succubus can be equipped with any Pistols, Grenades, melee weapons, armour, or equipment from the Drukhari Battlekit list.
+
+
+Abilities
+                  * Bloody Spectacle. Whenever the Succubus takes an enemy Out of Action, the Succubus gains a BLESSING MARKER.
+                  * Combat Drugs. Pain(1): When an enemy Charges the Succubus, the Succubus can make a single melee attack against that enemy before it takes any further actions.
+                  * Storm of Blades. The Succubus ignores penalties for attacking with off-hand weapons.
+
+
+Keywords
+DRUKHARI, ELITE
+Drukhari Troops
+Kabalite Warrior (Cost: 50 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Kabalite Warrior
+	7”/Infantry
+	+1
+	+1
+	0
+	25-28mm
+
+
+Battlekit
+A Kabalite Warrior can be equipped with any weapons, armour, or equipment from the Drukhari Battlekit list.
+
+
+Abilities
+                  * Sadistic Raider. Pain(1): When the Kabalite Warrior hits an enemy with a melee attack, it can add +1 DICE to the Injury roll. Limit once per hit.
+
+
+Keywords
+DRUKHARI
+0-3 Incubus (Cost: 65 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Incubus
+	7”/Infantry
+	+1
+	+2
+	0
+	25-28mm
+
+
+Battlekit
+An Incubus can be equipped with any melee weapons, Tormentor Helms, armour, or equipment from the Drukhari Battlekit list.
+
+
+Abilities
+                  * Decapitating Strike. Pain(1): The Incubus can give any melee attack it makes VICIOUS 10, before rolling. Limit once per attack.
+                  * Tormentor. The Incubus has +1 DICE to Hit an enemy with a melee attack if that enemy is affected by the FEAR Keyword.
+
+
+Keywords
+DRUKHARI, FEAR
+0-3 Wrack (Cost: 65 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Wrack
+	7”/Infantry
+	+1
+	+1
+	0
+	25-28mm
+
+
+Battlekit
+A Wrack can be equipped with any weapons, armour, or equipment from the Drukhari Battlekit list.
+
+
+Abilities
+                  * Experimental Enhancements. Pain(1): Once during each of its Activations, when it takes the Fight Action, the Wrack can make an additional melee attack.
+                  * Feel No Pain. Injury rolls made against the Wrack have -1 DICE.
+                  * The Torturer’s Craft. Whenever the Wrack takes an enemy Out of Action, it can give 1 BLOOD MARKER to another enemy it can see within 6” of the enemy model.
+
+
+Keywords
+DRUKHARI
+0-3 Wych (Cost: 60 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Wych
+	8”/Infantry
+	+1
+	+1
+	0
+	25-28mm
+
+
+Battlekit
+A Wych can be equipped with any Pistols, Grenades, melee weapons, armour, or equipment from the Drukhari Battlekit list.
+
+
+Abilities
+                  * Acrobatic Gladiator. Pain(1): When the Wych Charges, before rolling for charge bonus, you can cause the Wych’s charge movement to automatically be 12”.
+                  * No Escape. When an enemy in close combat with the Wych Retreats, the Wych has +1 DICE to Hit and +1 INJURY DICE for its free attack against that model.
+
+
+Keywords
+DRUKHARI
+0-2 Reaver (Cost: 90 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Reaver
+	10”/Flying
+	+1
+	+1
+	-1
+	32mm
+
+
+Battlekit
+A Reaver is equipped with Mesh Armour, included in its cost and statistics above. It can be equipped with any weapons or equipment from the Drukhari Battlekit list. It has only one hand for melee weapons, but can hold one two-handed melee weapon with Shield Combo.
+
+
+Abilities
+                  * Weapon Mount. The Windrider can ignore the HEAVY Keyword of one ranged weapon it wields.
+
+
+Keywords
+DRUKHARI, FLYING, INFILTRATOR, SKIRMISHER, VEHICLE
+0-1 Cronos (Cost: 150 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Cronos
+	7”/Flying
+	+2
+	+1
+	-2
+	60mm
+
+
+Battlekit
+The Cronos is equipped with heavy armour plating, included in its cost and statistics above, and can be equipped with a Spirit Syphon, Spirit Vortex, Spirit Probe, and/or Spirit-Leech Tentacles, purchased separately. It cannot be equipped with any other weapons, armour, or equipment.
+
+
+Abilities
+                  * Feel No Pain. Injury rolls made against the Cronos have -1 DICE.
+                  * Pain Parasite. Whenever the Cronos causes any model to take BLOOD MARKERS, it gains 1 Pain token for each of those BLOOD MARKERS, to a maximum of 6 Pain tokens. The Cronos and each friendly DRUKHARI model within 9” of it can spend Pain tokens from it as if they were BLOOD MARKERS on enemies to activate Pain(X) abilities.
+
+
+Keywords
+ARTIFICIAL, DRUKHARI, FLYING, LARGE, NO PROMOTION, STRONG, TOUGH
+0-1 Talos (Cost: 150 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Talos
+	7”/Flying
+	+1
+	+2
+	-2
+	60mm
+
+
+Battlekit
+The Talos is equipped with heavy armour plating, included in its cost and statistics above. It can be equipped with any weapons from the Drukhari Equipped List, and can take weapons normally limited to Wracks and/or Haemonculi. It cannot be equipped with any other armour or equipment.
+
+
+Abilities
+                  * Feel No Pain. Injury rolls made against the Talos have -1 DICE.
+                  * Pain Engine. Pain(2): Choose one of the following. This ability can be used only once each battle for each effect. These bonuses do not stack with the abilities granted by Power From Pain.
+                  * The Talos has +1 DICE to all Dash Success Rolls until the end of the battle.
+                  * The Talos has +1 DICE to Hit with all attacks until the end of the battle.
+
+
+Keywords
+ARTIFICIAL, DRUKHARI, FLYING, LARGE, NO PROMOTION, STRONG, TOUGH
+Drukhari Mercenaries
+You can hire the following Xenos mercenaries:
+                  * 0-1 Corsair Shade Runner (Cost: 3 Glory)
+                  * 0-1 Corsair Soul Weaver (Cost: 4 Glory)
+                  * 0-1 Death Jester (Cost: 5 Glory)
+                  * 0-2 Mandrake (Cost: 4 Glory)
+                  * 0-1 Shadowseer (Cost: 6 Glory)
+                  * 0-1 Solitaire (Cost: 5 Glory)
+You can hire the following Outlaw mercenaries:
+                  * 0-1 Barghesi Thrall (Cost: 2 Glory)
+                  * 0-1 Barghesi Raider (Cost: 5 Glory)
+________________
+
+
+Warband Variant: Court of the Archon
+                  * Court Alone. You cannot recruit Haemonculi, Succubi, Wracks, or Wyches. Instead, you can recruit up to 6 Incubi.
+                  * Court Inner Circle. You can recruit up to 1 Lhamaean, 1 Medusae, 1 Sslyth, and 1 Ur-Ghul, described below, as Elites in your Warband.
+                  * Court Battlekit. Add the following battlekit to your Battlekit list:
+                  * Sslyth Battle-Blade (12 credits, Sslyth Only). Melee, +1 INJURY DICE, HEAVY, TWO-HANDED
+
+
+
+
+0-1 Lhamaean (Cost: 55 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Lhamaean
+	7”/Infantry
+	N/A
+	+2
+	0
+	25-28mm
+
+
+Battlekit
+A Lhamaean is can be equipped with any melee weapons, armour, or equipment from the Drukhari Battlekit list. It can be equipped with Kabalite Armour.
+
+
+Abilities
+                  * Lhamaean Hatred. The Lhamaean and each of its DRUKHARI allies within 6” of it score a Critical Hit on a roll of 10 or higher with all attacks.
+
+
+Keywords
+DRUKHARI, ELITE
+0-1 Medusae (Cost: 90 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Medusae
+	7”/Infantry
+	N/A
+	+1
+	0
+	25-28mm
+
+
+Battlekit
+A Medusae is equipped with its Eyeburst, included in its cost. It can be equipped with any other melee weapons, armour, or equipment from the Drukhari Battlekit list. It can be equipped with Kabalite Armour.
+                  * Eyeburst. 10”, AUTOMATIC 2, FLAMETHROWER, -1 INJURY DICE, IGNORE ARMOUR. On a Minor Hit result, a target that is not Down falls Down.
+
+
+Keywords
+DRUKHARI, ELITE
+0-1 Sslyth (Cost: 85 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Sslyth
+	7”/Infantry
+	+1
+	+1
+	0
+	32mm
+
+
+Battlekit
+A Sslyth can be equipped with any weapons, armour, or equipment from the Drukhari Battlekit list. It can be equipped with Kabalite Armour.
+
+
+Abilities
+                  * Cold-Blooded Bodyguard. Ranged attacks have -1 DICE to Hit the Sslyth or any of its DRUKHARI allies within 6” of it.
+                  * Feel No Pain. Injury rolls made against the Sslyth have -1 DICE.
+
+
+Keywords
+DRUKHARI, ELITE, STRONG
+0-1 Ur-Ghul (Cost: 80 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Ur-Ghul
+	7”/Infantry
+	N/A
+	+2
+	0
+	25-28mm
+
+
+Battlekit
+A Ur-Ghul is equipped with two Ur-Ghul Talons, included in its cost. It cannot be equipped with any other weapons, armour, or equipment.
+                  * Ur-Ghul Talons. Melee, ARMOUR PIERCING 1, IGNORE OFF-HAND
+
+
+Abilities
+                  * Feel No Pain. Injury rolls made against the Ur-Ghul have -1 DICE.
+                  * Ur-Ghul Ferocity. The Ur-Ghul and each of its DRUKHARI allies within 6” of it have +1 INJURY DICE with melee attacks during an Activation in which they Charged.
+
+
+Keywords
+BEAST, DRUKHARI, ELITE, FEAR, LIMITED POTENTIAL
+Warband Variant: Haemonculus Coven
+                  * Haemonculi. You cannot recruit Archons, Succubi, Incubi, Wyches, or Reavers. Instead, you can recruit up to 3 Haemonculi and up to 6 Wracks. You must recruit at least 1 Haemonculus, and one of them must be your Warband leader, gaining the LEADER and TOUGH Keyword.
+                  * Grotesquerie. You can recruit up to 3 Grotesques, described below, as Troops in your Warband.
+Patron: Dark Science
+                  * Crucible Of Malediction. Whenever a model uses a psychic power within 6” of this model, it must roll on the Injury table after resolving that power.
+                  * Diabolical Soothsayer. Once during each battle, you can reroll one Success Roll this model takes, or an injury roll made against it.
+                  * Master Artisan. The cost of any suit of armour or equipment worth 15 credits or more is reduced by 5 credits if the model with this skill is part of the Warband. This does not stack.
+                  * Master Nemesine. This model’s melee attacks have +1 INJURY DICE and score a Critical Hit on a result of 11 or higher.
+                  * Master Regenesist. At the start of each of this model’s Activations, remove 1 BLOOD MARKER from it.
+                  * Scarlet Epicurean. This model treats any Down result from the Injury Roll Table as a Minor Hits instead. This does not apply to Down results that already replaced another result, such as with TOUGH.
+0-3 Grotesque (Cost: 135 credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Grotesque
+	7”/Infantry
+	+0
+	+2
+	0
+	40mm
+
+
+Battlekit
+A Grotesque is equipped with a Liquifier Gun and its Monstrous Weapons, included in its price. Its Liquifier Gun does not count towards the normal LIMIT. It cannot be equipped with any other weapons, armour, or equipment.
+                  * Liquifier Gun. 8”, FLAMETHROWER, IGNORE ARMOUR, -1 INJURY DICE, GAS, TWO-HANDED
+                  * Monstrous Weapons. Melee, +1 INJURY DICE, HEAVY
+
+
+Abilities
+                  * Feel No Pain. Injury rolls made against the Grotesque have -1 DICE.
+                  * Macro-Steroids. Pain(2): Once during each of its Activations, when it takes the Fight Action, the Grotesque can make two additional melee attacks.
+                  * Mindless Killing Machine. When the Grotesque is taken Out of Action, and when its TOUGH Keyword is used, before removing it from the table or applying the Down result, it can make a single melee attack against an enemy it is in close combat with. BLOOD MARKERS cannot be spent on this attack's Success Roll.
+
+
+Keywords
+DRUKHARI, LARGE, NO PROMOTION, STRONG, TOUGH
+________________
+
+
+Warband Variant: Wych Cult
+                  * Wyches. You cannot recruit Archons, Haemonculi, Incubi, or Wracks. Instead, you can recruit up to 2 Succubi, and up to 6 Wyches. You must recruit at least 1 Succubus, and one of them must be your Warband leader, gaining the LEADER and TOUGH Keyword.
+                  * The Arena. Your patron can be The Arena if you choose.
+                  * Beastmaster. You can recruit up to 1 Beastmaster, described below, as an Elite in your Warband. You can also recruit up to 1 Clawed Fiend, up to 2 Khymerae, and up to 3 Razorwing Flocks, all described below, as Troops in your Warband.
+Patron: The Arena
+                  * Blood Dancer. Once during each Turn, when an enemy ends its movement within 7” of this model, this model may immediately Charge that enemy.
+                  * Hyper-Swift Reflexes. All attacks made against this model have -1 DICE to Hit.
+                  * Precision Blows. This model scores a Critical Hit with all attacks on a result of 10 or higher.
+                  * Quicksilver Fighter. Enemy models never get free attacks against this model when it Retreats, and this model can move out of Melee Combat using its Standard Move, Charge, or Dash.
+                  * Stimm Addict. This model begins each battle with D3 BLESSING MARKERS.
+                  * Treacherous Deceiver. Whenever an enemy hits this model with a melee attack, that enemy suffers 1 BLOOD MARKER.
+0-1 Beastmaster (Cost: 65 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Beastmaster
+	7”/Infantry
+	+2
+	+2
+	0
+	25-32mm
+
+
+Battlekit
+The Beastmaster can be equipped with any weapons, armour, or equipment from the Drukhari Battlekit list. It can be equipped with a Hellion Skyboard, ignoring all limits (including number you can purchase).
+
+
+Abilities
+                  * Beastmaster. Friendly BEAST models within 6” of the Beastmaster have +1 DICE to all Attack and Dash Success Rolls.
+
+
+Keywords
+DRUKHARI, ELITE
+0-1 Clawed Fiend (Cost: 110 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Clawed Fiend
+	8”/Infantry
+	N/A
+	+1
+	-1
+	40mm
+
+
+Battlekit
+The Clawed Fiend is equipped with its thick hide, Fists, and Stinger, included in its cost. It can attack with its Fists and its Stinger as part of the same Fight Action during its Activation. It cannot be equipped with any other weapons, armour, or equipment.
+                  * Fists. Melee, CLEAVE 2, +1 INJURY MODIFIER
+                  * Stinger. Melee, GAS
+
+
+Abilities
+                  * Rage. The Clawed Fiend has +1 DICE to Hit in melee during an Activation during which it Charged.
+
+
+Keywords
+BEAST, DRUKHARI, FEAR, LARGE, NO PROMOTION, TOUGH
+0-2 Khymera (Cost: 75 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Khymera
+	8”/Infantry
+	N/A
+	+1
+	0
+	40mm
+
+
+Battlekit
+The Khymera is equipped with its Khymerae Talons, included in its cost. It cannot be equipped with any other weapons, armour, or equipment.
+                  * Khymerae Talons. Melee, CLEAVE 2, CRITICAL
+
+
+Abilities
+                  * Agile Beast. The Khymera has +1 DICE to all Climb, Dash, and Jump Success Rolls.
+                  * Daemonic Resistance. Injuries rolled against the Khymera have -1 DICE.
+
+
+Keywords
+BEAST, DAEMON, DRUKHARI, FEAR, LARGE, NO PROMOTION
+0-3 Razorwing Flock (Cost: 80 Credits)
+Name
+	Movement
+	Ranged
+	Melee
+	Armour
+	Base
+	Razorwing Flock
+	8”/Flying
+	N/A
+	+1
+	0
+	40mm
+
+
+Battlekit
+The Razorwing Flock is equipped with its Razorwing Feathers, included in its cost. It cannot be equipped with any other weapons, armour, or equipment.
+                  * Razorwing Feathers. Melee, CRITICAL, SWEEPING
+
+
+Abilities
+                  * Harassing Swarm. When an enemy in close combat with the Razorwing Flock Retreats, the Razorwing Flock has +1 DICE to Hit and Injure for its free attack against that model.
+
+
+Keywords
+BEAST, DRUKHARI, FEAR, FLYING, LARGE, NO PROMOTION, SWARM, TOUGH
